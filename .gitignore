@@ -1,0 +1,25 @@
+# Android / Gradle
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+android/.kotlin/
+*.iml
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# iOS / Xcode (project is generated from ios/project.yml by XcodeGen)
+ios/*.xcodeproj/
+ios/*.xcworkspace/
+ios/BanFromEntering/Info.plist
+ios/build/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+
+# OS / editors
+.DS_Store
+.vscode/

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ban From Entering</string>
+
+    <string name="channel_tracking_name">Location tracking</string>
+    <string name="channel_tracking_description">Persistent notification while bans are being monitored</string>
+    <string name="channel_alerts_name">Proximity alerts</string>
+    <string name="channel_alerts_description">Warnings when you approach or enter a banned location</string>
+
+    <string name="tracking_notification_title">Monitoring banned locations</string>
+    <string name="tracking_notification_text">You will be warned when you get close to a banned place.</string>
+    <string name="tracking_notification_stop">Stop</string>
+
+    <string name="alert_warning_title">Approaching: %1$s</string>
+    <string name="alert_warning_text">You are %1$s from a place you are banned from entering.</string>
+    <string name="alert_inside_title">BANNED AREA: %1$s</string>
+    <string name="alert_inside_text">You are inside a place you are banned from entering. Leave now.</string>
+</resources>
